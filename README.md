@@ -35,6 +35,7 @@ To develop a convolutional autoencoder for image denoising application.
   Add noise to the images randomly for both the train and test sets.
   ### Step 4: 
   Build the Neural Model using
+  
       Convolutional Layer
       Pooling Layer
       Up Sampling Layer.
